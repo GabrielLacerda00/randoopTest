@@ -1,0 +1,1 @@
+java -cp /Users/evertonalves/Documents/EclipseWorkspace/RandoopTest/bin:/Users/evertonalves/Documents/EclipseWorkspace/RandoopTest/lib/randoop-all-4.3.2.jar randoop.main.Main gentests --testclass=p1.Calculator --omit-methods-file=omitedList.txt --output-limit=100 --junit-output-dir=/Users/evertonalves/Documents/EclipseWorkspace/RandoopTest/src/tests
